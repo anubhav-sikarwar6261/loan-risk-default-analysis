@@ -247,7 +247,7 @@ Focuses on rule-based risk prioritization:
 
 ## Live Power BI Report
 
-[View Live Power BI Report]((https://app.powerbi.com/links/cj3pC45Usc?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare))
+[View Live Power BI Report](https://app.powerbi.com/links/cj3pC45Usc?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
 
 > Note: Access to the live Power BI report may depend on Power BI Service permissions and licensing.
 
