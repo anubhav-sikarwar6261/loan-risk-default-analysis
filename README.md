@@ -261,7 +261,7 @@ loan-risk-default-analysis/
 ├── README.md
 │
 ├── SQL/
-│   └── loan_risk_analysis.sql
+│   └── loan_risk_default_analysis.sql
 │
 ├── PowerBI/
 │   └── Loan_Risk_Default_Analysis.pbix
